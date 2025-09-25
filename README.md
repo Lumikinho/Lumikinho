@@ -15,5 +15,7 @@ Este é a minha conta principal junto com os meus projetos, caso necessite de aj
 - [My SteamDB Profile](https://steamdb.info/calculator/76561198849955312/?cc=br)
 - [Osu!]()
 
+---
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lumikinho&theme=dark&show_icons=true&hide_border=false&count_private=true)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Lumikinho&theme=dark&show_icons=true&hide_border=false&layout=compact)
