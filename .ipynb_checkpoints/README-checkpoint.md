@@ -1,5 +1,5 @@
 # Heya (*^▽^*)
-![Img](assets/Kapi_Idle.gif)
+![Foto](assets/Photo.png)
 
 Este é a minha conta principal junto com os meus projetos, caso necessite de ajuda entre em contato comigo!
 
