@@ -4,7 +4,8 @@ Eu sou o Lumiko
 ![Img](assets/Kapi_Idle.gif)
 
 Birthday 🎂: 15/04
-Este é a minha conta principal junto com os meus projetos, caso necessite de ajuda entre em contato comigo!
+
+Esta é a minha conta principal junto com os meus projetos, caso necessite de ajuda entre em contato comigo!
 
 # Meus gostos
 - Programação
