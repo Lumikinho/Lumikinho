@@ -12,7 +12,7 @@ Esta é a minha conta principal junto com os meus projetos, caso necessite de aj
 - Musica
 
 # redes
-- [Github segundario](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- ![Github segundario](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - [Desenhos (A colocar!)]
 - [My SteamDB Profile](https://steamdb.info/calculator/76561198849955312/?cc=br)
 - [Osu!](https://osu.ppy.sh/users/20953694/fruits)
