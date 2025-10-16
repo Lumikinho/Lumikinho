@@ -1,6 +1,5 @@
 
 # About Me
-## Eu sou o Lumiko 
     Birthday 🎂: 15/04
     
 
