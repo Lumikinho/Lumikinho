@@ -2,8 +2,7 @@
 Eu sou o Lumiko 
 Birthday 🎂: 15/04
 Esta é a minha conta principal junto com os meus projetos, caso necessite de ajuda entre em contato comigo!
- ![https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white] ![https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E] ![https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white] ![https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black] ![https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white] ![https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white]
-
+ ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black) ![Windows](https://img.shields.io/badge/Windows-017AD7?style=for-the-badge&logo=windows&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Meus gostos
 - Programação
