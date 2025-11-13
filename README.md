@@ -38,11 +38,11 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    src="https://github-readme-stats.vercel.app/api?username=lumikinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
     alt="Estatísticas do GitHub" />
   <br />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME&layout=compact&langs_count=8&theme=dracula"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lumikinho&layout=compact&langs_count=8&theme=dracula"
     alt="Linguagens Mais Usadas" />
 </p>
 
