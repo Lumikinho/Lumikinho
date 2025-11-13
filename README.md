@@ -12,21 +12,7 @@
     🎂 Aniversário: 15/04
 </p>
 
-<h3 align="center">Minhas Redes</h3>
-<p align="center">
-    <a href="https://www.linkedin.com" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=instagram" alt="Instagram"></a>
-    <a href="https://www.x.com/lumikinho" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
-    <a href="https://www.tiktok.com/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok" alt="TikTok"></a>
-    <a href="https://www.pinterest.com/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest" alt="Pinterest"></a>
-</p>
-
-<h3 align="center">Workflow</h3>
+<h2 align="center">Workflow</h2>
 <div align="center">
 
  <details>
@@ -80,13 +66,26 @@
 </div>
 
 <h1 align="center">Games</h1>
+
 <p align="center">
+    <a href="https://osu.ppy.sh/u/lumikomi0"><img
+            src="https://osu-sig.vercel.app/card?user=lumikomi0&mode=mania&lang=en&animation=true" /></a>
+</p>
+<h2 align="center">Minhas Redes</h2>
+<p align="center">
+    <a href="https://www.linkedin.com" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=instagram" alt="Instagram"></a>
+    <a href="https://www.x.com/lumikinho" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
+    <a href="https://www.tiktok.com/" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok" alt="TikTok"></a>
+    <a href="https://www.pinterest.com/" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest" alt="Pinterest"></a>
     <a href="https://github.com/Lumikin" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=github" alt="GitHub Secundário"></a>
     <a href="https://steamdb.info/calculator/76561198849955312/?cc=br" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=steam" alt="SteamDB"></a>
-</p>
-<p align="center">
-    <a href="https://osu.ppy.sh/u/lumikomi0"><img
-            src="https://osu-sig.vercel.app/card?user=lumikomi0&mode=mania&lang=en&animation=true" /></a>
+
 </p>
