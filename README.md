@@ -1,3 +1,39 @@
+<p align="center">
+    <img src="https://i.pinimg.com/originals/f9/a5/ff/f9a5fffac05d180287bd79c1cc1a4997.gif" alt="GIF de boas-vindas"
+        width="600" />
+</p>
+
+<p align="center">
+    <em>Sou o Lumiko ^^ gosto de pokemon, jogos (de ritmo e FPS) e não gosto de exatas, porem tenho que cursar TwT<br>
+        Aprendendo novas linguagens e (quase) sempre ajudando meus amigos</em>
+</p>
+
+<p align="center">
+    🎂 Aniversário: 15/04
+</p>
+
+<h3 align="center">Minhas Redes</h3>
+<p align="center">
+    <a href="https://www.linkedin.com" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin"
+            alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=instagram"
+            alt="Instagram"></a>
+    <a href="https://www.x.com/lumikinho" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
+    <a href="https://www.tiktok.com/" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok"
+            alt="TikTok"></a>
+    <a href="https://www.pinterest.com/" target="_blank"><img
+            src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest"
+            alt="Pinterest"></a>
+</p>
+
+
+<h3 align="center">Workflow</h3>
+<div align="center">
+
     <details>
         <summary><strong>Linguagens</strong></summary>
         <p>
@@ -50,7 +86,7 @@
         </p>
     </details>
 
-
+</div>
 
 
 <h1 align="center">Games</h1>
@@ -64,4 +100,3 @@
     <a href="https://osu.ppy.sh/u/lumikomi0"><img
             src="https://osu-sig.vercel.app/card?user=lumikomi0&mode=mania&lang=en&animation=true" /></a>
 </p>
-
