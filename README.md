@@ -3,8 +3,6 @@
         width="600" />
 </p>
 
-</style>
-
 <p align="center">
     <em> Ola eu sou o Lumiko gosto de jogar, ouver música e de "codar" </em>
 
@@ -35,7 +33,6 @@
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,mysql,mariadb,npm,pnpm,gitbash,docker,insomnia"
                 alt="Skill Icons" />
-
         </p>
 
  </details>
