@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-    <em>Sou o Lumiko ^^ gosto de pokemon, jogos (de ritmo e FPS) e não gosto de exatas, porem tenho que cursar TwT<br>
-        Aprendendo novas linguagens e (quase) sempre ajudando meus amigos</em>
+    <em> Ola eu sou o Lumiko gosto de jogar, ouver música e de "codar" </em>
+
 </p>
 
 <p align="center">
@@ -15,28 +15,29 @@
 <h2 align="center">Workflow</h2>
 <div align="center">
 
- <details>
+  <details>
         <summary><strong>Linguagens</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,typescript,javascript,php,html,css"
                 alt="Skill Icons" />
         </p>
-    </details>
-    <details>
+ </details>
+  <details>
         <summary><strong>Frameworks (Backend/Frontend)</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,nodemon" alt="Skill Icons" />
         </p>
-    </details>
-    <details>
+ </details>
+ <details>
         <summary><strong>Ferramentas</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,mysql,mariadb,npm,pnpm,gitbash,docker,insomnia"
                 alt="Skill Icons" />
 
-   </p>
-    </details>
-    <details>
+        </p>
+
+ </details>
+ <details>
         <summary><strong>Ambiente de Desenvolvimento</strong></summary>
         <p>
         <p> Ide </p>
@@ -45,23 +46,23 @@
         <p> Shells </p>
         <img src="https://skills.syvixor.com/api/icons?perline=15&i=powershell,bash,gitbash,zshell" alt="Skill Icons" />
         </p>
-    </details>
+ </details>
 
-<details>
+ <details>
         <summary><strong>Sistemas Operacionais</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux,omarchy,windows,android"
                 alt="Skill Icons" />
         </p>
-    </details>
+ </details>
 
 <details>
-        <summary><strong>Apps</strong></summary>
-        <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=affinity,discord,firefox,zen,blender,figma,virtualbox,notion,warp,canva,perplexity,googlegemini,chatgpt"
-                alt="Apps" />
-        </p>
-    </details>
+     <summary><strong>Apps</strong></summary>
+     <p>
+        <img src="https://skills.syvixor.com/api/icons?perline=15&i=affinity,discord,firefox,zen,blender,figma,virtualbox,notion,warp,canva,perplexity,googlegemini,chatgpt"
+            alt="Apps" />
+     </p>
+</details>
 
 </div>
 
@@ -88,4 +89,10 @@
     <a href="https://steamdb.info/calculator/76561198849955312/?cc=br" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=steam" alt="SteamDB"></a>
 
+</p>
+
+<p align="center">
+    <a href="">
+        <img src="https://media.pokemoncentral.it/wiki/f/f3/Sprusulm0807.gif" alt="Zeraora">
+    </a>
 </p>
