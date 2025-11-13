@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-    <em> Ola eu sou o Lumiko gosto de jogar, ouver música e de "codar" </em>
+    <em> Ola eu sou o Lumiko gosto de jogar, ouvir música e de "codar" </em>
 
 </p>
 
