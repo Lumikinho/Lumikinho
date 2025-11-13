@@ -135,8 +135,5 @@
             src="https://img.shields.io/badge/Valorant-fa4454?style=for-the-badge&logo=valorant&logoColor=white"
             alt="Valorant"></a>
 </p>
-<p align="center">
-    <a href="https://osu.ppy.sh/u/lumikomi0">
-        <img src="/card?user=lumikomi0&mode=mania&lang=en&blur=6&round_avatar=true&animation=true&hue=255" />
-    </a>
-</p>
+[![osu! signature
+card](/card?user=lumikomi0&mode=mania&lang=en&blur=6&round_avatar=true&animation=true&hue=255)](https://osu.ppy.sh/u/lumikomi0)
