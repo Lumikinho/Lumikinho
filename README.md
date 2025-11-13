@@ -67,7 +67,7 @@
 <div align="center">
     <h2> Projetos </h2>
 
-    <a href="https://github.com/Lumikinho/Dicas-para-um-programador">
+<a href="https://github.com/Lumikinho/Dicas-para-um-programador">
         Dicas para um programador
     </a>
 </div>
