@@ -15,50 +15,41 @@
 <h3 align="center">Minhas Redes</h3>
 <p align="center">
     <a href="https://www.linkedin.com" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin"
-            alt="LinkedIn"></a>
+            src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=instagram"
-            alt="Instagram"></a>
+            src="https://skills.syvixor.com/api/icons?perline=15&i=instagram" alt="Instagram"></a>
     <a href="https://www.x.com/lumikinho" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
     <a href="https://www.tiktok.com/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok"
-            alt="TikTok"></a>
+            src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok" alt="TikTok"></a>
     <a href="https://www.pinterest.com/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest"
-            alt="Pinterest"></a>
+            src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest" alt="Pinterest"></a>
 </p>
-
 
 <h3 align="center">Workflow</h3>
 <div align="center">
 
-    <details>
+ <details>
         <summary><strong>Linguagens</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,typescript,javascript,php,html,css"
                 alt="Skill Icons" />
         </p>
     </details>
-
     <details>
         <summary><strong>Frameworks (Backend/Frontend)</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,nodemon" alt="Skill Icons" />
         </p>
     </details>
-
     <details>
         <summary><strong>Ferramentas</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,mysql,mariadb,npm,pnpm,gitbash,docker,insomnia"
                 alt="Skill Icons" />
 
-
-        </p>
+   </p>
     </details>
-
     <details>
         <summary><strong>Ambiente de Desenvolvimento</strong></summary>
         <p>
@@ -70,7 +61,7 @@
         </p>
     </details>
 
-    <details>
+<details>
         <summary><strong>Sistemas Operacionais</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux,omarchy,windows,android"
@@ -78,7 +69,7 @@
         </p>
     </details>
 
-    <details>
+<details>
         <summary><strong>Apps</strong></summary>
         <p>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=affinity,discord,firefox,zen,blender,figma,virtualbox,notion,warp,canva,perplexity,googlegemini,chatgpt"
@@ -87,7 +78,6 @@
     </details>
 
 </div>
-
 
 <h1 align="center">Games</h1>
 <p align="center">
