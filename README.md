@@ -46,7 +46,6 @@
 
     ---
 
-    ## 🌟 Projeto em Destaque
 
 <p align="center">
     <a href="https://github.com/Lumikinho/Dicas-para-um-programador">
