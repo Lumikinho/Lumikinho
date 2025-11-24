@@ -82,7 +82,7 @@
 <p align="center">
     <a href="https://www.linkedin.com" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
+    <a href="https://www.instagram.com/RootLumiko/" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=instagram" alt="Instagram"></a>
     <a href="https://www.x.com/lumikinho" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
