@@ -84,9 +84,9 @@
             src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=instagram" alt="Instagram"></a>
-    <a href="https://www.x.com/lumikinho" target="_blank"><img
+    <a href="https://www.x.com/RootLumiko" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
-    <a href="https://www.tiktok.com/" target="_blank"><img
+    <a href="https://www.tiktok.com/lumikinhu" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok" alt="TikTok"></a>
     <a href="https://www.pinterest.com/" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest" alt="Pinterest"></a>
