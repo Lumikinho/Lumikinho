@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.pinimg.com/originals/f9/a5/ff/f9a5fffac05d180287bd79c1cc1a4997.gif" alt="GIF de boas-vindas"
+    <img src="./assets/manga _Smell_ (1).jpg" alt="GIF de boas-vindas"
         width="600" />
 </p>
 
@@ -99,6 +99,6 @@
 
 <p align="center">
     <a href="">
-        <img src="https://media.pokemoncentral.it/wiki/f/f3/Sprusulm0807.gif" alt="Zeraora">
+        <img src="./assets/SMELL.jpg" alt="noi Smell">
     </a>
 </p>
