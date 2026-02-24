@@ -1,65 +1,48 @@
+<div align='center'>
 <p align="center">
-    <img src="./assets/manga _Smell_ (1).jpg" alt="GIF de boas-vindas"
+    <img src="./assets/Inserir um título.png" alt="GIF de boas-vindas"
         width="600" />
 </p>
-
-<p align="center">
-    <em> Ola eu sou o Lumiko gosto de jogar, ouvir música e de "codar" </em>
-
-</p>
-
+<h1>Lumiko</h1>
 <p align="center">
     🎂 Aniversário: 15/04
 </p>
+<p align="center">
+    estudante de DS (Desenvolvimento de Sistemas) no SENAI
+</p>
 
-<h2 align="center">Workflow</h2>
+<h2 align="center"> Habilidades</h2>
 <div align="center">
 
   <details>
         <summary><strong>Linguagens</strong></summary>
         <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=python,typescript,javascript,php,html,css"
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,html,css"
                 alt="Skill Icons" />
         </p>
  </details>
   <details>
         <summary><strong>Frameworks (Backend/Frontend)</strong></summary>
         <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,nodemon" alt="Skill Icons" />
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,reactnative,nodemon" alt="Skill Icons" />
         </p>
  </details>
  <details>
         <summary><strong>Ferramentas</strong></summary>
         <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,mysql,mariadb,npm,pnpm,gitbash,docker,insomnia"
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,mysql,npm,git,insomnia"
                 alt="Skill Icons" />
         </p>
 
  </details>
- <details>
-        <summary><strong>Ambiente de Desenvolvimento</strong></summary>
-        <p>
-        <p> Ide </p>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=neovim,vim,visualstudiocode,androidstudio,zed"
-            alt="Ide" />
-        <p> Shells </p>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=powershell,bash,gitbash,zshell" alt="Skill Icons" />
-        </p>
- </details>
-
+ 
  <details>
         <summary><strong>Sistemas Operacionais</strong></summary>
         <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux,omarchy,windows,android"
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux,windows,android"
                 alt="Skill Icons" />
         </p>
  </details>
-
-<details>
-     <summary><strong>Apps</strong></summary>
-     <p>
-        <img src="https://skills.syvixor.com/api/icons?perline=15&i=affinity,discord,firefox,zen,blender,figma,virtualbox,notion,warp,canva,perplexity,googlegemini,chatgpt" alt="Apps"/>
-     </p>
 </details>
 
 </div>
@@ -71,13 +54,6 @@
     My Sheet-Sheets
     </a>
 </div>
-
-<h1 align="center">Games</h1>
-
-<p align="center">
-    <a href="https://osu.ppy.sh/u/lumikomi0"><img
-            src="https://osu-sig.vercel.app/card?user=lumikomi0&mode=mania&lang=en&animation=true" /></a>
-</p>
 <h2 align="center">Minhas Redes</h2>
 <p align="center">
     <a href="https://www.linkedin.com" target="_blank"><img
@@ -96,9 +72,4 @@
             src="https://skills.syvixor.com/api/icons?perline=15&i=steam" alt="SteamDB"></a>
 
 </p>
-
-<p align="center">
-    <a href="">
-        <img src="./assets/SMELL.jpg" alt="noi Smell">
-    </a>
-</p>
+</div>
