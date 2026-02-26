@@ -50,8 +50,8 @@
 <div align="center">
     <h2> Projetos </h2>
 
-<a href="https://github.com/Lumikinho/Sheet-Sheets">
-    My Sheet-Sheets
+<a href="https://www.notion.so/Tutoriais-310bc35d328e802b8e09f62ed7d447ee?source=copy_link">
+    Meus tutoriais
     </a>
 </div>
 <h2 align="center">Minhas Redes</h2>
