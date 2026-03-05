@@ -4,13 +4,6 @@
         width="600" />
 </p>
 <h1>Lumiko</h1>
-<p align="center">
-    🎂 Aniversário: 15/04
-</p>
-<p align="center">
-    estudante de DS (Desenvolvimento de Sistemas) no SENAI
-</p>
-
 <h2 align="center"> Habilidades</h2>
 <div align="center">
 
