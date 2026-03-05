@@ -7,37 +7,31 @@
 <h2 align="center"> Habilidades</h2>
 <div align="center">
 
-  <details>
-        <summary><strong>Linguagens</strong></summary>
-        <p>
+ <h3> <strong>Linguagens</strong> </h3>
+        <a>
             <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,html,css"
                 alt="Skill Icons" />
-        </p>
- </details>
-  <details>
-        <summary><strong>Frameworks (Backend/Frontend)</strong></summary>
-        <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,reactnative,nodemon" alt="Skill Icons" />
-        </p>
- </details>
- <details>
-        <summary><strong>Ferramentas</strong></summary>
-        <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,mysql,npm,git,insomnia"
+        </a>
+        <h3><strong>Frameworks (Backend/Frontend)</strong></h3>
+        <a>
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,reactnative,bootstrap" alt="Skill Icons" />
+        </a>
+        <h3> <strong> Banco de dados </strong> </h3>
+        <a>
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,prisma"
                 alt="Skill Icons" />
-        </p>
-
- </details>
- 
- <details>
-        <summary><strong>Sistemas Operacionais</strong></summary>
-        <p>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=archlinux,windows,android"
+        </a>
+        </a>
+        <h3><strong>Ferramentas</strong></h3>
+        <a>
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,npm,git,insomnia,nodemon"
                 alt="Skill Icons" />
-        </p>
- </details>
-</details>
-
+        </a>
+        <h3><strong>Sistemas Operacionais</strong></h3>
+        <a>
+            <img src="https://skills.syvixor.com/api/icons?perline=15&i=linux,windows,android"
+                alt="Skill Icons" />
+        </a>
 </div>
 
 <div align="center">
@@ -49,20 +43,12 @@
 </div>
 <h2 align="center">Minhas Redes</h2>
 <p align="center">
-    <a href="https://www.linkedin.com" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=linkedin" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/lumikinho/" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=instagram" alt="Instagram"></a>
     <a href="https://www.x.com/RootLumiko" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=twitter" alt="X"></a>
-    <a href="https://www.tiktok.com/lumikinhu" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=tiktok" alt="TikTok"></a>
-    <a href="https://www.pinterest.com/" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=pinterest" alt="Pinterest"></a>
     <a href="https://github.com/Lumikin" target="_blank"><img
             src="https://skills.syvixor.com/api/icons?perline=15&i=github" alt="GitHub Secundário"></a>
-    <a href="https://steamdb.info/calculator/76561198849955312/?cc=br" target="_blank"><img
-            src="https://skills.syvixor.com/api/icons?perline=15&i=steam" alt="SteamDB"></a>
 
 </p>
 </div>
