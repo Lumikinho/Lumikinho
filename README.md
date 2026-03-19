@@ -35,11 +35,10 @@
 </div>
 
 <div align="center">
-    <h2> Projetos </h2>
-
-<a href="https://www.notion.so/Tutoriais-310bc35d328e802b8e09f62ed7d447ee?source=copy_link">
-    Meus tutoriais
-    </a>
+<h2> Meus projetos (e algumas coisas) </h2> 
+<a href="https://www.notion.so/Homepage-328e97c2f976800a9781c7ba9350ca45">
+     <img src="https://skills.syvixor.com/api/icons?perline=15&i=notion"></img>
+ </a>
 </div>
 <h2 align="center">Minhas Redes</h2>
 <p align="center">
