@@ -1,8 +1,5 @@
 <div align='center'>
-<p align="center">
-    <img src="./assets/Inserir um título.png" alt="GIF de boas-vindas"
-        width="600" />
-</p>
+<h1> 𝓛𝓾𝓶𝓲𝓴𝓸 </h1>
 <div>
     <p>
         <a href="https://www.instagram.com/lumiko.png"> Instagram </a>
@@ -12,6 +9,8 @@
         <a href="https://github.com/lumikin"> Github Acadêmico </a>
         <a>•</a>
         <a href="https://x.com/RootLumiko"> X (Twitter) </a>
+        <a>•</a>
+        <a href="#"> Meu Site </a>
     </p>
 </div>
 <Details>
