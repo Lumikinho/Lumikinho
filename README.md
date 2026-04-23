@@ -13,8 +13,7 @@
         <a href="#"> Meu Site </a>
     </p>
 </div>
-<Details>
-    <Summary><h1>Skills</h1></Summary>
+<h2>Skills</h2>
 
 <div align="center">
 
@@ -44,5 +43,30 @@
                 alt="Skill Icons" />
         </a>
 </div>
-</Details>
+<br />
+
+<div align="center">
+  <h1> Projetos em Destaque </h1>
+  <br />
+
+  <table border="0">
+    <tr>
+      <td width="50%" align="left">
+        <h3><strong>Nao tem :(</strong></h3>
+        <p>TBA</p>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Acessar_Repositório-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <img src="https://via.placeholder.com/400x200" alt="Preview do Projeto" width="100%"/>
+      </td>
+    </tr>
+  </table>
+
+  <br />
+      </td>
+    </tr>
+  </table>
+</div>
 </div>
