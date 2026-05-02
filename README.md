@@ -1,8 +1,8 @@
 <div align='center'>
-<h1> 𝓛𝓾𝓶𝓲𝓴𝓸 </h1>
+<img  src="assets/Lumiko.png"/>
 <div>
     <p>
-        <a href="https://www.instagram.com/lumiko.png"> Instagram </a>
+        <a " href="https://www.instagram.com/lumiko.png" > Instagram </a>
         <a>•</a>
         <a href="https://www.notion.so/Homepage-328e97c2f976800a9781c7ba9350ca45"> Notion </a>
         <a>•</a>
