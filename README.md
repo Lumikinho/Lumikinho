@@ -2,15 +2,9 @@
 <img  src="assets/Lumiko.png"/>
 <div>
     <p>
-        <a " href="https://www.instagram.com/lumiko.png" > Instagram </a>
-        <a>•</a>
-        <a href="https://www.notion.so/Homepage-328e97c2f976800a9781c7ba9350ca45"> Notion </a>
+        <a href="https://passportdex.com/lumiko"> More about me </a>
         <a>•</a>
         <a href="https://github.com/lumikin"> Github Acadêmico </a>
-        <a>•</a>
-        <a href="https://x.com/RootLumiko"> X (Twitter) </a>
-        <a>•</a>
-        <a href="#"> Meu Site </a>
     </p>
 </div>
 <h2>Skills</h2>
