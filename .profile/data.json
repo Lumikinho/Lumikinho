@@ -1,0 +1,266 @@
+{
+ "key": "ff3c4c5f",
+ "stars": 1,
+ "contributions": 166,
+ "repos": 13,
+ "followers": 21,
+ "languages": [
+  [
+   "Java",
+   488407
+  ],
+  [
+   "Kotlin",
+   463894
+  ],
+  [
+   "TypeScript",
+   272943
+  ],
+  [
+   "C#",
+   175578
+  ],
+  [
+   "Python",
+   117723
+  ],
+  [
+   "HTML",
+   59156
+  ],
+  [
+   "JavaScript",
+   49962
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 8,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 9,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 10,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 51,
+    "day": 11,
+    "today": false
+   },
+   {
+    "c": 20,
+    "day": 12,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 13,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 14,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 15,
+    "today": false
+   },
+   {
+    "c": 9,
+    "day": 16,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 17,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 1,
+    "day": 18,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 19,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 20,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 21,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 3
+ },
+ "pins": [],
+ "all": [
+  {
+   "name": "termux-opencode",
+   "url": "https://github.com/Lumikinho/termux-opencode",
+   "text": "Instalador do OpenCode no Termux via proot-distro (Debian) — v1 ou v2",
+   "fork": false,
+   "stars": 1,
+   "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "openmobile",
+   "url": "https://github.com/Lumikinho/openmobile",
+   "text": "The open source coding agent.",
+   "fork": true,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "vscode-mobile-arm64",
+   "url": "https://github.com/Lumikinho/vscode-mobile-arm64",
+   "text": "Port do VS Code para Android ARM64 nativo (Kotlin + Compose): editor, PTY real, SAF multi-root, LSP e Linux embutido",
+   "fork": false,
+   "stars": 0,
+   "language": "Java",
+   "topics": []
+  },
+  {
+   "name": "lumilink-android",
+   "url": "https://github.com/Lumikinho/lumilink-android",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": []
+  },
+  {
+   "name": "lumilink-pc",
+   "url": "https://github.com/Lumikinho/lumilink-pc",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "C#",
+   "topics": []
+  },
+  {
+   "name": "telegram-opencode-bot",
+   "url": "https://github.com/Lumikinho/telegram-opencode-bot",
+   "text": "Bot do Telegram que controla o opencode CLI",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "server-dashboard",
+   "url": "https://github.com/Lumikinho/server-dashboard",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Native-Commit-Graph",
+   "url": "https://github.com/Lumikinho/Native-Commit-Graph",
+   "text": "A github commit graph using Android material you",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "PokemonCollection",
+   "url": "https://github.com/Lumikinho/PokemonCollection",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Market",
+   "url": "https://github.com/Lumikinho/Market",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Cards",
+   "url": "https://github.com/Lumikinho/Cards",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": []
+  },
+  {
+   "name": "Mysite",
+   "url": "https://github.com/Lumikinho/Mysite",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
+   "topics": []
+  },
+  {
+   "name": "Lumikinho",
+   "url": "https://github.com/Lumikinho/Lumikinho",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  }
+ ]
+}
