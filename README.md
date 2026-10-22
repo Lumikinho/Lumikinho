@@ -1,66 +1,17 @@
-<div align='center'>
-<img  src="assets/Lumiko.png"/>
-<div>
-    <p>
-        <a href="https://passportdex.com/lumiko"> More about me </a>
-        <a>•</a>
-        <a href="https://github.com/lumikin"> Github Acadêmico </a>
-    </p>
-</div>
-<h2>Skills</h2>
-
 <div align="center">
 
- <h3> <strong>Linguagens</strong> </h3>
-        <a>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=javascript,html,css"
-                alt="Skill Icons" />
-        </a>
-        <h3><strong>Frameworks (Backend/Frontend)</strong></h3>
-        <a>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=expressjs,reactjs,reactnative,bootstrap" alt="Skill Icons" />
-        </a>
-        <h3> <strong> Banco de dados </strong> </h3>
-        <a>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=mysql,prisma"
-                alt="Skill Icons" />
-        </a>
-        </a>
-        <h3><strong>Ferramentas</strong></h3>
-        <a>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=nodejs,xampp,npm,git,insomnia,nodemon"
-                alt="Skill Icons" />
-        </a>
-        <h3><strong>Sistemas Operacionais</strong></h3>
-        <a>
-            <img src="https://skills.syvixor.com/api/icons?perline=15&i=linux,windows,android"
-                alt="Skill Icons" />
-        </a>
-</div>
-<br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><img src="assets/hero-light.svg" width="100%" alt="Hi, I&#x27;m Lucas Miranda"></picture>
 
-<div align="center">
-  <h1> Projetos em Destaque </h1>
-  <br />
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-l-dark.svg"><img src="assets/social-l-light.svg" width="26.345%" alt=""></picture><a href="https://x.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-1-dark.svg"><img src="assets/social-1-light.svg" width="10.814%" alt="x"></picture></a><a href="https://linkedin.com/in/lumikinho/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-2-dark.svg"><img src="assets/social-2-light.svg" width="21.159%" alt="desktop_windows"></picture></a><a href="https://"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-3-dark.svg"><img src="assets/social-3-light.svg" width="15.335%" alt="steam"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="assets/social-r-dark.svg"><img src="assets/social-r-light.svg" width="26.345%" alt=""></picture>
 
-  <table border="0">
-    <tr>
-      <td width="50%" align="left">
-        <h3><strong>Nao tem :(</strong></h3>
-        <p>TBA</p>
-        <a href="#">
-          <img src="https://img.shields.io/badge/Acessar_Repositório-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <td width="50%" align="center">
-        <img src="https://via.placeholder.com/400x200" alt="Preview do Projeto" width="100%"/>
-      </td>
-    </tr>
-  </table>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
-  <br />
-      </td>
-    </tr>
-  </table>
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/wave-dark.svg"><img src="assets/wave-light.svg" width="100%" alt=""></picture>
+
+<a href="https://lumiko-portifolio-red.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-1-dark.svg"><img src="assets/button-1-light.svg" width="auto" alt="My website"></picture></a>&nbsp;&nbsp;<a href="https://github.com/Lumikinho?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/button-2-dark.svg"><img src="assets/button-2-light.svg" width="auto" alt="All repositories"></picture></a>
+
+<a href="https://metawka.github.io/expressive-profile/?from=Lumikinho"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/credit-dark.svg"><img src="assets/credit-light.svg" width="auto" alt="Made with Expressive Profile"></picture></a>
+
 </div>
