@@ -1,48 +1,28 @@
 {
- "key": "5f5a7b6f",
+ "key": "be20a06f",
  "stars": 1,
- "contributions": 167,
- "repos": 14,
+ "contributions": 33,
+ "repos": 3,
  "followers": 21,
  "languages": [
   [
-   "Java",
-   488407
-  ],
-  [
-   "Kotlin",
-   463894
-  ],
-  [
    "TypeScript",
-   272943
-  ],
-  [
-   "C#",
-   175578
+   165938
   ],
   [
    "Python",
-   117723
-  ],
-  [
-   "HTML",
-   59156
-  ],
-  [
-   "JavaScript",
-   49962
+   69006
   ]
  ],
  "days": [
   [
    {
-    "c": 51,
+    "c": 0,
     "day": 11,
     "today": false
    },
    {
-    "c": 20,
+    "c": 0,
     "day": 12,
     "today": false
    },
@@ -62,19 +42,19 @@
     "today": false
    },
    {
-    "c": 9,
+    "c": 0,
     "day": 16,
     "today": false
    },
    {
-    "c": 1,
+    "c": 0,
     "day": 17,
     "today": false
    }
   ],
   [
    {
-    "c": 1,
+    "c": 0,
     "day": 18,
     "today": false
    },
@@ -129,7 +109,7 @@
  ],
  "streak": {
   "current": 1,
-  "longest": 3
+  "longest": 2
  },
  "pins": [],
  "all": [
@@ -143,108 +123,9 @@
    "topics": []
   },
   {
-   "name": "Revisao-SAEP",
-   "url": "https://github.com/Lumikinho/Revisao-SAEP",
-   "text": "Repositorio de revisão para a prova do SAEP",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "openmobile",
-   "url": "https://github.com/Lumikinho/openmobile",
-   "text": "The open source coding agent.",
-   "fork": true,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "vscode-mobile-arm64",
-   "url": "https://github.com/Lumikinho/vscode-mobile-arm64",
-   "text": "Port do VS Code para Android ARM64 nativo (Kotlin + Compose): editor, PTY real, SAF multi-root, LSP e Linux embutido",
-   "fork": false,
-   "stars": 0,
-   "language": "Java",
-   "topics": []
-  },
-  {
-   "name": "lumilink-android",
-   "url": "https://github.com/Lumikinho/lumilink-android",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "Kotlin",
-   "topics": []
-  },
-  {
-   "name": "lumilink-pc",
-   "url": "https://github.com/Lumikinho/lumilink-pc",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "C#",
-   "topics": []
-  },
-  {
    "name": "telegram-opencode-bot",
    "url": "https://github.com/Lumikinho/telegram-opencode-bot",
    "text": "Bot do Telegram que controla o opencode CLI",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "server-dashboard",
-   "url": "https://github.com/Lumikinho/server-dashboard",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "Native-Commit-Graph",
-   "url": "https://github.com/Lumikinho/Native-Commit-Graph",
-   "text": "A github commit graph using Android material you",
-   "fork": false,
-   "stars": 0,
-   "language": null,
-   "topics": []
-  },
-  {
-   "name": "PokemonCollection",
-   "url": "https://github.com/Lumikinho/PokemonCollection",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "TypeScript",
-   "topics": []
-  },
-  {
-   "name": "Market",
-   "url": "https://github.com/Lumikinho/Market",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "Cards",
-   "url": "https://github.com/Lumikinho/Cards",
-   "text": "",
-   "fork": false,
-   "stars": 0,
-   "language": "JavaScript",
-   "topics": []
-  },
-  {
-   "name": "Mysite",
-   "url": "https://github.com/Lumikinho/Mysite",
-   "text": "",
    "fork": false,
    "stars": 0,
    "language": "TypeScript",
