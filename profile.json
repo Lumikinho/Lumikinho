@@ -126,10 +126,10 @@
     "items": [
       {
         "icon": "brand:x",
-        "url": "https://x.com/"
+        "url": "https://x.com/rootlumiko"
       },
       {
-        "icon": "desktop_windows",
+        "icon": "work",
         "url": "https://linkedin.com/in/lumikinho/"
       },
       {
@@ -138,7 +138,7 @@
       }
     ],
     "variant": "chip",
-    "fill": "tonal",
+    "fill": "brand",
     "card": true
   },
   "buttons": {
