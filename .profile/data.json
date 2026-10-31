@@ -1,5 +1,5 @@
 {
- "key": "dedd5907",
+ "key": "2d7a3148",
  "stars": 1,
  "contributions": 33,
  "repos": 3,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 30,
-    "today": true
+    "today": false
    },
-   null
+   {
+    "c": 0,
+    "day": 31,
+    "today": true
+   }
   ]
  ],
  "streak": {
