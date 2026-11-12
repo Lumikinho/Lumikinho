@@ -1,17 +1,25 @@
 {
- "key": "50fc3261",
+ "key": "73a99c1a",
  "stars": 1,
- "contributions": 147,
- "repos": 3,
+ "contributions": 158,
+ "repos": 4,
  "followers": 20,
  "languages": [
   [
    "TypeScript",
-   165938
+   454880
   ],
   [
    "Python",
    69006
+  ],
+  [
+   "CSS",
+   5038
+  ],
+  [
+   "HTML",
+   1207
   ]
  ],
  "days": [
@@ -22,7 +30,7 @@
     "today": false
    },
    {
-    "c": 13,
+    "c": 14,
     "day": 26,
     "today": false
    },
@@ -32,7 +40,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 28,
     "today": false
    },
@@ -69,12 +77,12 @@
     "today": false
    },
    {
-    "c": 4,
+    "c": 10,
     "day": 4,
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 5,
     "today": false
    },
@@ -91,7 +99,7 @@
   ],
   [
    {
-    "c": 15,
+    "c": 16,
     "day": 8,
     "today": false
    },
@@ -111,7 +119,7 @@
     "today": false
    },
    {
-    "c": 0,
+    "c": 1,
     "day": 12,
     "today": true
    },
@@ -120,8 +128,8 @@
   ]
  ],
  "streak": {
-  "current": 5,
-  "longest": 5
+  "current": 6,
+  "longest": 6
  },
  "pins": [],
  "all": [
@@ -132,6 +140,15 @@
    "fork": false,
    "stars": 1,
    "language": "Shell",
+   "topics": []
+  },
+  {
+   "name": "Infinity",
+   "url": "https://github.com/Lumikinho/Infinity",
+   "text": "",
+   "fork": false,
+   "stars": 0,
+   "language": "TypeScript",
    "topics": []
   },
   {
